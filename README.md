@@ -1,5 +1,5 @@
-# Git-project-automation
-Git project automation is a simple project which is used to automate the whole github project creation and updation of the project.
+# GitFlowEase
+GitFlowEase is a simple project which is used to automate the whole github project creation and updation of the project.
 
 ### Usage
 ```
